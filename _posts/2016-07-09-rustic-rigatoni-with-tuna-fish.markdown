@@ -3,7 +3,7 @@ title: Rustic Rigatoni with Tuna Fish
 date: 2016-07-09T19:00:04-04:00
 ---
 
-![Rigatoni with Tuna](/img/rigatoni-tuna.png "Rigatoni with Tuna")
+![Rigatoni with Tuna]({{site.github.url}}/img/rigatoni-tuna.png "Rigatoni with Tuna")
 
 ## Ingredients
 

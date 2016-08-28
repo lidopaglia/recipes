@@ -3,7 +3,7 @@ title:      "Spaghetti Carbonara"
 date:       2016-07-04T12:15:20-04:00
 ---
 
-![Spaghetti Carbonara](/img/spaghetti-carbonara.png "Spaghetti Carbonara")
+![Spaghetti Carbonara]({{site.github.url}}/img/spaghetti-carbonara.png "Spaghetti Carbonara")
 
 ## Ingredients
 

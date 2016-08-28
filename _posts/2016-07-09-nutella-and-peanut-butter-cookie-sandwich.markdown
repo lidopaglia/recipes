@@ -3,7 +3,7 @@ title: Nutella and Peanut Butter Cookie Sandwich
 date: 2016-07-09T20:40:10-04:00
 ---
 
-![Nutella and Peanut Butter Cookie Sandwich](/img/nutella-jif-tates.png "Nutella and Peanut Butter Cookie Sandwich")
+![Nutella and Peanut Butter Cookie Sandwich]({{site.github.url}}/img/nutella-jif-tates.png "Nutella and Peanut Butter Cookie Sandwich")
 
 # Ingredients
 
