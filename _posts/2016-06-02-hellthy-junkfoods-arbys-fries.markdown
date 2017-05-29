@@ -5,12 +5,8 @@ date: 2016-06-02T13:15:20-04:00
 
 A friend and I made these Arby's style curly fries. :thumbsup:
 
-![Arby's Style Curly Fries]({{site.github.url}}/img/arbys-fries.png "Arby's Style Curly Fries")
+![Arby's Style Curly Fries]( {{ '/assets/img/arbys-fries.png' | prepend:site.baseurl }} "Arby's Style Curly Fries")
 
 Here's the original recipe from [Hellthy Junkfood](https://www.youtube.com/user/HellthyJunkFood). Ingredients and directions are included in the video description.
 
-<div class='vidwrap'>
-  <div class="h_iframe">
-    <iframe height="600" width="2" class="video" src="//www.youtube.com/embed/4RFy3grxV7E" frameborder="0" allowfullscreen></iframe>
-  </div>
-</div>
+{% include video.html url="https://www.youtube.com/embed/4RFy3grxV7E" width="560" height="315" %}

@@ -1,34 +1,21 @@
 # Setup
-title:     ':fork_and_knife:'
-baseurl:   ""
+title: 'Recipes :fork_and_knife:'
+baseurl: "/recipes"
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here.
 
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      layout:   "post"
+email: lido@paglia.org
+twitter_username: nicemarmot
+github_username:  lidopaglia
+instagram_username: lidopaglia
 
-# Outputting
-permalink:     pretty
-
-# Conversion
-markdown:    kramdown
-kramdown:
-  input: GFM
-highlighter: rouge
-lsi:         false
-excerpt_separator: "\n\n"
-incremental: false
-
-# About/contact
-author:
-  name:       Lido Paglia
-  url:        http://paglia.org
-  instagram:  lidopaglia
-  twitter:    nicemarmot
-
-# Gems
+# Build settings
+markdown: kramdown
+theme: minima
+permalink: pretty
 gems:
+  - jekyll-feed
   - jemoji
+exclude:
+  - Gemfile
+  - Gemfile.lock

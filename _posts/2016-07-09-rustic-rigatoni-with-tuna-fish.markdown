@@ -3,14 +3,14 @@ title: Rustic Rigatoni with Tuna Fish
 date: 2016-07-09T19:00:04-04:00
 ---
 
-![Rigatoni with Tuna]({{site.github.url}}/img/rigatoni-tuna.png "Rigatoni with Tuna")
+![Rigatoni with Tuna]({{'/assets/img/rigatoni-tuna.png' | prepend:site.baseurl}} "Rigatoni with Tuna")
 
 ## Ingredients
 
 * 2 cloves of garlic
 * 1/4 of a large white onion (diced)
 * 4 tbsp extra virgin olive oil
-* 2 tbsp crushed red pepper flakes 
+* 2 tbsp crushed red pepper flakes
 * Parsley (Chopped)
 * 1 cup cherry tomatoes (cut into halves)
 * 1/2 cup crushed tomato
