@@ -1,8 +1,7 @@
 # Setup
 title: 'Recipes :fork_and_knife:'
 baseurl: "/recipes"
-description: > # this means to ignore newlines until "baseurl:"
-  A collection of notes from experiments in my kitchen.
+description: A collection of notes from experiments in my kitchen.
 
 email: lido@paglia.org
 twitter_username: nicemarmot
