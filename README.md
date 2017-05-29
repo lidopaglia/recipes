@@ -1,10 +1,6 @@
-# :fork_and_knife:
+# Recipes: :fork_and_knife:
 
-A collection of notes from my kitchen.
-
-## Acknowledgements
-
-Theme based on [Cayman](https://github.com/jasonlong/cayman-theme) by [Jason Long](https://github.com/jasonlong).
+A collection of notes from experiments in my kitchen.
 
 ## License
 
